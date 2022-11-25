@@ -57,4 +57,117 @@
 }
 /* header style end */
 
-/*  */
+/* mission style start */
+.mission-title {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 70px;
+  text-align: center;
+  color: #13103a;
+}
+.mission-year {
+  color: #ffad5a;
+}
+.mission-container {
+  margin-top: 48px;
+  display: flex;
+  width: 1128px;
+  padding: 0 7%;
+}
+.mission-container img {
+  width: 141px;
+  height: 141px;
+  margin-top: 20px;
+}
+.mission-container h3 {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+  color: #000000;
+  margin-left: 10px;
+}
+.mission-container p {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #424242;
+  margin-left: 10px;
+}
+.mission-detail {
+  background: rgba(79, 157, 166, 0.1);
+  border-radius: 26px;
+  padding: 25px;
+}
+.vission-detail {
+  background: rgba(255, 89, 89, 0.1);
+  border-radius: 26px;
+  padding: 25px;
+  margin-left: 24px;
+}
+.goals-detail {
+  background: #fff4d6;
+  border-radius: 26px;
+  padding: 25px;
+  margin-left: 24px;
+}
+/* mission style end */
+
+/* develop section style start */
+.main-section {
+  padding: 0 3%;
+}
+.develope-section {
+  display: flex;
+  margin-top: 86px;
+}
+.develop-image {
+  width: 50%;
+  padding: 0 7%;
+  background-image: url(../images/shapes/shape-1.png);
+  background-position: left;
+  background-repeat: no-repeat;
+  background-size: 227px 227px;
+}
+.develop-image img {
+  width: 400px;
+  height: 400px;
+  border-radius: 26px;
+}
+.develop-detail h1 {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 54px;
+  color: #333333;
+}
+.develop-detail p {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  color: #3e3e3e;
+  margin-right: 30px;
+}
+.develop-detail button {
+  width: 243px;
+  height: 48px;
+  background: #ff5959;
+  border-radius: 5px;
+  border: none;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  color: #ffffff;
+}
+/* develop section style end */
