@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
 
+/* header style start */
 .header-section {
   display: flex;
 }
@@ -54,3 +55,6 @@
   margin-top: 33px;
   font-family: 'Poppins', sans-serif;
 }
+/* header style end */
+
+/*  */
