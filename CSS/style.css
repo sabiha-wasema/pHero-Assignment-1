@@ -235,6 +235,7 @@ footer {
   background: #0b0d17;
   width: 100%;
   height: 177px;
+  margin-top: 43px;
 }
 .footer-section {
   display: flex;
@@ -264,3 +265,72 @@ footer {
   color: #d9dbe1;
 }
 /* footer style end */
+
+/* app section style start */
+.app-title {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 74px;
+  text-align: center;
+  color: #000000;
+}
+.app-title span {
+  color: #ffad5a;
+}
+.app-section {
+  display: flex;
+  padding: 0 8%;
+  width: 1128px;
+  height: 700px;
+  background-color: #ffffff;
+  background-image: url(../images/shapes/shape-3.png);
+  background-position: 180px 90px;
+  background-repeat: no-repeat;
+  background-size: 147px 147px;
+  border-radius: 26px;
+}
+.app-half {
+  width: 50%;
+  padding: 0 7%;
+}
+.app-half img {
+  margin-top: 130px;
+  width: 400px;
+  height: 562px;
+}
+.app-half h1 {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 131%;
+  color: #000000;
+  margin-top: 200px;
+}
+.app-half span {
+  color: #ffad5a;
+}
+.app-half p {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  color: #3e3e3e;
+}
+.app-half button {
+  width: 157px;
+  height: 48px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  color: #ffffff;
+  background-color: #ff5959;
+  border: none;
+  border-radius: 5px;
+}
